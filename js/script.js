@@ -23,4 +23,6 @@ function validarFormulario() {
     } else {
         alert("Mensagem enviada com sucesso!");
     }
+    
+    this.reset();
 }
