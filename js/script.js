@@ -22,11 +22,10 @@ function validarFormulario() {
         alert("Por favor, preencha todos os campos antes de enviar.");
     } else {
         alert("Mensagem enviada com sucesso!");
-
+        
         // Limpar os campos (clear)
         document.getElementById("form-contato").reset();
     }
-  
 }
 
 // Limpa o formulário ao carregar a página
