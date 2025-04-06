@@ -28,3 +28,11 @@ function validarFormulario() {
     }
   
 }
+
+// Limpa o formulário ao carregar a página
+document.addEventListener("DOMContentLoaded", function () {
+    const formulario = document.getElementById("form-contato");
+    if (formulario) {
+        formulario.reset();
+    }
+});
