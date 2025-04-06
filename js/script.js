@@ -26,5 +26,8 @@ function validarFormulario() {
         // Limpar os campos (clear)
         document.getElementById("form-contato").reset();
     }
+
+    // limpa os campos
+    this.reset();
     
 }
