@@ -1,6 +1,5 @@
-Página WEB criada como currículo profissional
+Meu primeiro projeto de desenvolvimento WEB
 
-Página criada usando HTML, CSS e JavaScript, com intuito de apresentar o conhecimento que adquiri durante a matéria de Desenvolvimento Web.
+Este site marca o início do meu portfólio como desenvolvedor. Ele foi criado como parte da disciplina de Desenvolvimento Web no curso de Análise e Desenvolvimento de Sistemas, visando aplicar na prática os conhecimentos em HTML, CSS e JavaScript que adquiri na disciplina de Ferramentas de Desenvolvimento Web.
 
-![Captura de tela 2025-04-06 012807](https://github.com/user-attachments/assets/7e8e21e4-c12a-4582-a478-ea696d01d37d)
-
+![image](https://github.com/user-attachments/assets/8f65cae6-d69c-4bae-9dd8-0df0fadabf83)
